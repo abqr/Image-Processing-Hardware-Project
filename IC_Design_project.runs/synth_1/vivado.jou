@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Apr  6 23:26:57 2024
+# Process ID: 2288
+# Current directory: C:/Users/MSI/IC_Design_project/IC_Design_project.runs/synth_1
+# Command line: vivado.exe -log TOP_Module.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TOP_Module.tcl
+# Log file: C:/Users/MSI/IC_Design_project/IC_Design_project.runs/synth_1/TOP_Module.vds
+# Journal file: C:/Users/MSI/IC_Design_project/IC_Design_project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source TOP_Module.tcl -notrace

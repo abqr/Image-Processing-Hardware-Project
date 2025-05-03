@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../IC_Design_project.srcs/sources_1/new/smoothening.sv" \
+"../../../../IC_Design_project.srcs/sim_1/new/smoothing_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
